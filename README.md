@@ -17,7 +17,8 @@ OWASP Top 10-based web application security testing skill for Claude Code.
 ## Install
 
 ```bash
-curl -fsSL https://github.com/vbs0101/claude-web-offsec-Testing-skill-owasp/main/install.sh | bash
+
+https://raw.githubusercontent.com/vbs0101/claude-web-offsec-Testing-skill-owasp/main/install.sh
 ```
 
 Restart Claude Code after installation.
